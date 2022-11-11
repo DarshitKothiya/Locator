@@ -1,16 +1,7 @@
-# permission
+# Permission Handler App
 
-A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src = "https://user-images.githubusercontent.com/113766592/201289892-b490f903-d587-46cf-97a7-8a768aadf987.jpeg"style="height:450px">
+<img src = "https://user-images.githubusercontent.com/113766592/201289908-027e284d-a932-4e9a-ae10-b9670fd4dd11.jpeg"style="height:450px">
+![photo1668152081](https://user-images.githubusercontent.com/113766592/201289892-b490f903-d587-46cf-97a7-8a768aadf987.jpeg)
+![photo1668152081 (1)](https://user-images.githubusercontent.com/113766592/201289908-027e284d-a932-4e9a-ae10-b9670fd4dd11.jpeg)
